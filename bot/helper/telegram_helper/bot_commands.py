@@ -23,7 +23,7 @@ class _BotCommands:
         self.CloneCommand = 'clone4'
         self.CountCommand = 'count4'
         self.WatchCommand = 'watch4'
-        self.ZipWatchCommand = 'zipwatch'
+        self.ZipWatchCommand = 'zipwatch4'
         self.QbMirrorCommand = 'qbmir4'
         self.QbUnzipMirrorCommand = 'qbunzipmir4'
         self.QbZipMirrorCommand = 'qbzipmir4'
